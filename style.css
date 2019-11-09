@@ -44,7 +44,7 @@ margin: auto;
 
   background-color: #ebebeb;
   
-  padding: 125px;
+  padding: 149px;
 
 }
 
@@ -76,4 +76,10 @@ background: #ebebeb;
 color: #777;
 
 
+}
+
+.smallp {
+
+  background: #ebebeb;
+  color: #777;
 }
