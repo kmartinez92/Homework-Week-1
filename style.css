@@ -33,6 +33,7 @@ margin: auto;
 
   background-color: #ebebeb;
   margin-right: 10px;
+  padding: 50px;
   
   
   
@@ -42,7 +43,8 @@ margin: auto;
 .rightside {
 
   background-color: #ebebeb;
-  height: 200px;
+  
+  padding: 125px;
 
 }
 
@@ -60,8 +62,18 @@ padding: 0;
 
   background: #777;
   margin: 10px;
-  padding: 40px;
+  margin-bottom: 10px;
+  padding: 20px;
   color: #ebebeb;
 
 }
 
+
+
+.smallrow {
+
+background: #ebebeb;
+color: #777;
+
+
+}
